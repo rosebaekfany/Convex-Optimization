@@ -1,6 +1,7 @@
-# Convex-optimization
+# Convex Optimization — Semidefinite Relaxation
 
-This repository includes the code and report for the Convex Optimization course project.
+Code and report for the **Convex Optimization** course project.
+
 ---
 
 ## 📖 Project Overview
@@ -29,6 +30,14 @@ This project explores **convex optimization techniques**, focusing on the applic
    * SDP relaxation of the chromatic number.
    * Wigderson’s algorithm for 3-colorable graphs.
    * Advanced methods using the **Lovász number** and refined **Karger–Motwani–Sudan (KMS)** algorithm.
+
+## 📂 Contents
+
+| File | Description |
+|---|---|
+| `convex_project_report.pdf` | Project report |
+| `project-mimo.ipynb` | MIMO detection: ZF, MMSE, sphere decoding and SDR |
+| `MaxCut_GraphColoring (1).ipynb` | Max-Cut (Goemans–Williamson) and graph colouring with SDP relaxation |
 
 ## 📚 References
 
